@@ -1,0 +1,249 @@
+{
+  "main": {
+    "id": "7b7385b1374c062a",
+    "type": "split",
+    "children": [
+      {
+        "id": "8b86ca41d97992a4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d142a36289d184cf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Student Management System - SDLC.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Student Management System - SDLC"
+            }
+          },
+          {
+            "id": "c0cad99b6ca92324",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          },
+          {
+            "id": "8d122b6ebc28ea5b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Important Links.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Important Links"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "75b37814865a9313",
+    "type": "split",
+    "children": [
+      {
+        "id": "fe0ba9ee9c8b3022",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6806eb202106cbdf",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "042b8718c3496450",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "adaae3956a6a3fd8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3353f53f30294546",
+    "type": "split",
+    "children": [
+      {
+        "id": "46c4349eb412f724",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "007edf009b783aab",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Important Links.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Important Links"
+            }
+          },
+          {
+            "id": "69bdd97ee57e5d9c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Important Links.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Important Links"
+            }
+          },
+          {
+            "id": "49f96085ac02ae04",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "1df1aba578c0a56f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Important Links.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Important Links"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "8d122b6ebc28ea5b",
+  "lastOpenFiles": [
+    "Yuzu/node_modules/@typescript-eslint/eslint-plugin/node_modules/ignore/index.js",
+    "Yuzu/node_modules/@typescript-eslint/typescript-estree/node_modules/brace-expansion/index.js",
+    "Yuzu/node_modules/run-parallel/README.md",
+    "Yuzu/node_modules/run-parallel/LICENSE",
+    "Yuzu/node_modules/run-parallel/package.json",
+    "Yuzu/node_modules/run-parallel/index.js",
+    "Yuzu/node_modules/run-parallel",
+    "Yuzu/node_modules/micromatch/node_modules/picomatch/index.js",
+    "Yuzu/node_modules/is-number/README.md",
+    "Yuzu/node_modules/is-number/LICENSE",
+    "Yuzu/node_modules/is-number/package.json",
+    "Yuzu/node_modules/is-number/index.js",
+    "Yuzu/node_modules/is-number",
+    "Yuzu/node_modules/glob-parent/README.md",
+    "Yuzu/node_modules/imurmurhash/README.md",
+    "Yuzu/node_modules/is-glob/README.md",
+    "Yuzu/node_modules/minimatch/README.md",
+    "README.md",
+    "Important Links.md",
+    "Untitled.md",
+    "Yuzu/android/app/src/main/res/mipmap-mdpi/ic_launcher_foreground.webp",
+    "Yuzu/android/app/src/main/res/mipmap-xxhdpi/ic_launcher_foreground.webp",
+    "Yuzu/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_foreground.webp",
+    "Yuzu/android/app/src/main/res/mipmap-hdpi/ic_launcher_foreground.webp",
+    "Yuzu/android/app/src/main/res/mipmap-xhdpi/ic_launcher_foreground.webp",
+    "Yuzu/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp",
+    "Yuzu/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp",
+    "Yuzu/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp",
+    "Yuzu/android/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp",
+    "Yuzu/android/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp",
+    "Yuzu/node_modules/chalk/readme.md",
+    "Yuzu/node_modules/jimp-compact/README.md",
+    "Yuzu/node_modules/find-up/readme.md",
+    "Yuzu/node_modules/array.prototype.tosorted/README.md",
+    "Yuzu/node_modules/array.prototype.tosorted/CHANGELOG.md",
+    "Yuzu/node_modules/babel-plugin-polyfill-regenerator/README.md",
+    "Yuzu/node_modules/eslint-plugin-expo/README.md",
+    "Yuzu/node_modules/eslint-plugin-import/memo-parser/README.md",
+    "Yuzu/node_modules/espree/README.md",
+    "Yuzu/node_modules/node-releases/README.md",
+    "Yuzu/node_modules/ms/readme.md",
+    "Yuzu/node_modules/ms/license.md",
+    "Yuzu/node_modules/has-flag/readme.md",
+    "Yuzu/node_modules/convert-source-map/README.md",
+    "Yuzu/node_modules/clone/README.md",
+    "Yuzu/node_modules/color/README.md"
+  ]
+}
